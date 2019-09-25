@@ -5,7 +5,7 @@
 - Modern Design
 - Full Screen Header Background
 - Optimized Code & Content
-- Showcase your work more attractively.
+- Showcase work more attractively.
 - HiDPI / Retina Ready
 - Clean Code
 - IE 9 support
@@ -19,6 +19,4 @@
 - Minified CSS and Js included for Faster loading. 
 - Clean and stylish UI
 - Well commented coding
-- Easy to use
-- It's Free!
 
