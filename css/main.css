@@ -106,7 +106,7 @@ body {
 
 #site-header h1 {
 	margin: 0;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'FontAwesome', sans-serif;
 	margin-top: 11px;
 	font-size: 26px;
 	font-weight: 300;
@@ -145,7 +145,7 @@ body {
 .site-nav ul li a {
 	color: #fff;
 	font-size: 15px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'FontAwesome', sans-serif;
 	position: relative;
 	transition: 0.5s background linear;
 }
@@ -219,7 +219,7 @@ body {
 	font-size: 27px;
 	margin-bottom: 60px;
 	color: #fff;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'FontAwesome', sans-serif;
 	font-weight: 300;
 	line-height: 56px;
 	word-spacing: 2px;
@@ -245,7 +245,7 @@ body {
 	text-transform: uppercase;
 	color: #111;
 	border: 1px solid rgb(136, 138, 145);
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'FontAwesome', sans-serif;
 	font-weight: 300;
 	word-spacing: 5px;
 	letter-spacing: 1px;
@@ -276,7 +276,7 @@ body {
 	font-weight: 400;
 	
     font-size: 55px;
-    font-family: 'Milonga', cursive;
+    font-family: 'FontAwesome', sans-serif;
 }
 
 .portfolio-item img {
@@ -320,7 +320,7 @@ body {
 	text-transform: uppercase;
 	color: lightseagreen;
 	border: 1px solid rgba(32, 178, 170, 0.86);
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'FontAwesome', sans-serif;
 	font-weight: 300;
 	word-spacing: 5px;
 	letter-spacing: 1px;
@@ -418,7 +418,7 @@ body {
 #services .block-heading h1 {
     color: #fff;
 	
-    font-family: 'Milonga', cursive;
+    font-family: 'FontAwesome', sans-serif;
 	font-weight: 400;
 	
     font-size: 55px;
@@ -489,7 +489,7 @@ ul.numbersList span{
 #testimonials .block-heading h1
 {
 	color: rgb(0, 129, 129);
-	font-family: 'Milonga', cursive;
+	font-family: 'FontAwesome', sans-serif;
 	font-weight: 400;
 	font-size: 55px;
 }
@@ -535,7 +535,7 @@ ul.numbersList span{
 #contact .block-heading h1
 {
 	color: #fff;
-	font-family: 'Milonga', cursive;
+	font-family: 'FontAwesome', sans-serif;
 	font-weight: 400;
 	font-size: 55px;
 }
